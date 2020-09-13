@@ -422,6 +422,7 @@ header .header_shopping:hover span {
 #banner .banner_bottom {
     height: 170px;
     margin: 15px 0;
+    width: 1223px;
     /* background-color: royalblue; */
     display: flex;
     justify-content: space-between;
@@ -1088,5 +1089,6 @@ header .header_shopping:hover span {
 }
 
 body {
+    width: 1263px;
     overflow-x: hidden;
 }
